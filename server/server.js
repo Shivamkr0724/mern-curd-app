@@ -11,7 +11,7 @@ const app = express();
 
 const allowedOrigins = [
   "http://localhost:5173",
-  "https://your-frontend-name.vercel.app"
+  "https://mern-curd-app.vercel.app"
 ];
 
 app.use(
